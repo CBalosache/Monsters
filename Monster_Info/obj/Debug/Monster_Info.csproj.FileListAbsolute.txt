@@ -1,0 +1,7 @@
+C:\Users\Cosmin Balosache\source\repos\Monster_Info\Monster_Info\bin\Debug\Monster_Info.exe.config
+C:\Users\Cosmin Balosache\source\repos\Monster_Info\Monster_Info\bin\Debug\Monster_Info.exe
+C:\Users\Cosmin Balosache\source\repos\Monster_Info\Monster_Info\bin\Debug\Monster_Info.pdb
+C:\Users\Cosmin Balosache\source\repos\Monster_Info\Monster_Info\obj\Debug\Monster_Info.csprojAssemblyReference.cache
+C:\Users\Cosmin Balosache\source\repos\Monster_Info\Monster_Info\obj\Debug\Monster_Info.csproj.CoreCompileInputs.cache
+C:\Users\Cosmin Balosache\source\repos\Monster_Info\Monster_Info\obj\Debug\Monster_Info.exe
+C:\Users\Cosmin Balosache\source\repos\Monster_Info\Monster_Info\obj\Debug\Monster_Info.pdb
